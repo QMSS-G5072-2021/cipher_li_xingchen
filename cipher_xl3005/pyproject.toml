@@ -5,6 +5,9 @@ description = "Python package that contains the cipher function."
 authors = ["Xingchen Li"]
 license = "MIT"
 readme = "README.md"
+documentation = 'https://cipher-xl3005.readthedocs.io/en/latest/'
+homepage = "https://github.com/QMSS-G5072-2021/cipher_li_xingchen"
+repository = "https://github.com/QMSS-G5072-2021/cipher_li_xingchen"
 
 [tool.poetry.dependencies]
 python = "^3.9.7"
