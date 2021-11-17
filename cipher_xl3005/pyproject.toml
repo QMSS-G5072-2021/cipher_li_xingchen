@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_xl3005"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python package that contains the cipher function."
 authors = ["Xingchen Li"]
 license = "MIT"
@@ -10,8 +10,11 @@ homepage = "https://github.com/QMSS-G5072-2021/cipher_li_xingchen"
 repository = "https://github.com/QMSS-G5072-2021/cipher_li_xingchen"
 
 [tool.poetry.dependencies]
-python = "^3.9.7"
+python = "^3.9.0"
 autoapi = "^2.0.1"
+myst-nb = "^0.13.1"
+sphinx-rtd-theme = "^1.0.0"
+sphinx-autoapi = "^1.8.4"
 
 [tool.poetry.dev-dependencies]
 
